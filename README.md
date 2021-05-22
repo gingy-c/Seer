@@ -1,4 +1,4 @@
-#Seer
+# Seer
 
 A weird programming language designed to optimize code.
 
